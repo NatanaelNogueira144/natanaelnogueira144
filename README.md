@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Natanael Nogueira
 
-Desenvolvedor Web apaixonado por transformar ideias em aplicações funcionais e elegantes. Tenho mais de 5 anos de experiência com desenvolvimento Full Stack, criando soluções com foco em performance, escalabilidade e experiência do usuário.
+Desenvolvedor apaixonado por transformar ideias em aplicações funcionais e elegantes. Tenho mais de **5 anos de experiência** com **Desenvolvimento Web**, criando soluções com foco em **performance**, **escalabilidade** e **experiência do usuário**.
 
 ---
 
@@ -39,20 +39,23 @@ Também tenho familiaridade com:
 
 ## ✨ Sobre mim
 
-- 💼 Atualmente estou em busca de uma oportunidade de trabalho
+- 💼 Atualmente estou em busca de uma oportunidade de trabalho como estagiário
 - 🧠 Sempre estudando para me manter atualizado com as tendências de desenvolvimento
 - 🤝 Aberto a colaborar em projetos open-source e freelance
-- 🌱 Em constante aprendizado: atualmente explorando Angular
+- 🌱 Em constante aprendizado: atualmente explorando Vue.js
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🔗 [Teste das Cinco Linguagens do Amor](https://github.com/NatanaelNogueira144/teste-cinco-linguagens)
-Aplicação com a finalidade de descobrir a linguagem do amor de um indivíduo, desenvolvida com Laravel e MySQL. Possui autenticação, sistema CRUD e responsividade completa.
+Aplicação com a finalidade de descobrir a linguagem do amor de um indivíduo, desenvolvida com **Laravel** e **MySQL**. Possui autenticação, sistema CRUD e responsividade completa.
 
 ### 🔗 [Teste de Inteligência Espiritual](https://github.com/NatanaelNogueira144/teste-inteligencia-espiritual)
-Aplicação com a finalidade de descobrir o nível de inteligência espiritual de um indivíduo, desenvolvida com Laravel e MySQL. Possui autenticação, sistema CRUD e responsividade completa.
+Aplicação com a finalidade de descobrir o nível de inteligência espiritual de um indivíduo, desenvolvida com **Laravel** e **MySQL**. Possui autenticação, sistema CRUD e responsividade completa.
+
+### 🔗 [Carteira Digital](https://github.com/NatanaelNogueira144/carteira-digital-frontend)
+Controle financeiro de entradas e saídas, com um layout elegante, gráficos informativos e cards responsivos. Desenvolvida com **React** e **TypeScript**. A ([**Backend API**](https://github.com/NatanaelNogueira144/carteira-digital-backend)) que alimenta a aplicação frontend foi desenvolvida com **Nest.js** e **Prisma**.
 
 ---
 
